@@ -3073,8 +3073,7 @@ stylehacks@^5.1.1:
 
 stylus@^0.54.5:
   version "0.54.8"
-  resolved "https://registry.yarnpkg.com/stylus/-/stylus-0.54.8.tgz#3da3e65966bc567a7b044bfe0eece653e099d147"
-  integrity sha512-vr54Or4BZ7pJafo2mpf0ZcwA74rpuYCZbxrHBsH8kbcXOwSfvBFwsRfpGO5OD5fhG5HDCFW737PKaawI7OqEAg==
+  resolved "https://codeload.github.com/stylus/stylus/tar.gz/0.54.8"
   dependencies:
     css-parse "~2.0.0"
     debug "~3.1.0"
@@ -3087,8 +3086,7 @@ stylus@^0.54.5:
 
 stylus@^0.x:
   version "0.62.0"
-  resolved "https://registry.yarnpkg.com/stylus/-/stylus-0.62.0.tgz#648a020e2bf90ed87587ab9c2f012757e977bb5d"
-  integrity sha512-v3YCf31atbwJQIMtPNX8hcQ+okD4NQaTuKGUWfII8eaqn+3otrbttGL1zSMZAAtiPsBztQnujVBugg/cXFUpyg==
+  resolved "https://codeload.github.com/stylus/stylus/tar.gz/0.62.0"
   dependencies:
     "@adobe/css-tools" "~4.3.1"
     debug "^4.3.2"

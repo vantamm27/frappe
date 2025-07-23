@@ -92,5 +92,9 @@
   "optionalDependencies": {
     "bufferutil": "^4.0.8",
     "utf-8-validate": "^6.0.3"
+  },
+  "resolutions": {
+    "stylus@^0.54.5": "github:stylus/stylus#0.54.8",
+    "stylus@^0.x": "github:stylus/stylus#0.62.0"
   }
 }
